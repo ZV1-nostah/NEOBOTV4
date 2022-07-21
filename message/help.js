@@ -71,7 +71,7 @@ exports.allmenu = (sender, prefix, pushname, isOwner, isPremium, balance, limit,
 exports.menuall = (sender, prefix, pushname) => {
 	return `
 _*•──•──•──•──•──•──•──•*_
-   *NEOBOT WHATSAPP*
+   *ZEX WHATSAPP*
   *BAILEYS MULTI DEVICE*
 _*•──•──•──•──•──•──•──•*_
 
@@ -314,10 +314,10 @@ _Jika Minat Chat Owner Ketik #owner_
 exports.donasibot = (sender, prefix) => {
    return `
   ‣ *DONASI BOT*
- ➢ DANA = 08xxxxxxx
- ➢ OVO = 08xxxxxxx
- ➢ PULSA = 08xxxxxxx
- ➢ GOPAY = 08xxxxxxx
+ ➢ DANA = 081229393997
+ ➢ OVO = 081229393997
+ ➢ PULSA = 081229393997
+ ➢ GOPAY = 081229393997
  
 Hallo Kak ${ucapanWaktu}
 Beneran Mau Donasi Bot ??
